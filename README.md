@@ -1,6 +1,6 @@
 Sistema pousada em desenvolvimento 🐸👍
 
-# 謢謣謪謤謫謬謭謮謯謥謰謱謲謳謴謦謵謧謨謩 🕍 Pousada Pedra Furada - Sistema de Gestão de Tarefas
+# 謢謣謪謤謫謬謭謮謯謥謰謱謲謳謴謦謵謧謨謩 🗻 Pousada Pedra Furada - Sistema de Gestão de Tarefas
 Aplicação web SPA desenvolvida em **Next.js**, com foco em **CI/CD**, **TDD** e **boas práticas
 de versionamento**.
 ## 띙띚띞띟띛띜띝 🧑‍💻 Tecnologias
