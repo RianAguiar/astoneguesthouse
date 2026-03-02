@@ -1,6 +1,6 @@
 export default function Home() {
 
   return (
-    <h1>Bem-vindo a pedra furada</h1>
+    <h1>Bem-vindo à Pousada Pedra Furada</h1>
   )
 }
